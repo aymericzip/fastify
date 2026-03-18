@@ -724,3 +724,4 @@ middlewares into Fastify plugins
   Fastify plugin for Vite with Hot-module Replacement.
 - [`vite-plugin-fastify-routes`](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes)
   File-based routing for Fastify applications using Vite.
+- [`fastify-intlayer`](https://intlayer.org/doc/environment/fastify) i18n solution for error handling, email template
